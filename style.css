@@ -1,0 +1,57 @@
+header{
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ color: rgb(255, 255, 255);
+ background-color: rgb(105, 31, 202);
+ ;
+
+/*padding é o espaçamento interno*/
+padding: 15px;
+/*display é o modo de exibiçao*/
+display:flex;
+/*alinhamento vertical*/
+align-items: center ;
+justify-content: center;
+margin: 0px;
+}
+
+body{background-color: rgb(96, 169, 238);
+margin: 0%;}
+
+#logo{
+    width: 50px;
+    height: 50px;}
+
+
+ul{margin: 0px;
+  background-color: rgb(33, 6, 83);
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: white;
+  list-style: none;
+  font-size: larger;}
+
+  .container{align-items: center;
+      justify-content: space-around;
+      display: flex;
+    padding: 100px;}
+
+  .gatomalefico{
+    font-family: monospace;
+    font-size: larger;
+  }
+
+  .container{align-items: center;
+    justify-content: space-around;
+    display: flex;
+  padding: 100px;}
+
+  img{ width: 350px;
+    height: 350px;}
+
+    .container2{align-items: center;
+      justify-content: space-around;
+      display: flex;
+    padding: 100px;
+     background-color:rgb(21, 76, 128) ;}
